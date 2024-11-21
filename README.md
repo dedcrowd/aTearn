@@ -47,15 +47,7 @@
 ```bash
 git clone https://github.com/hunthack3r/aTearn.git
 cd aTearn
-
-
-# A-TEARN
-
-## Installation
-
-```bash
-git clone https://github.com/hunthack3r/aTearn.git
-cd aTearn
+sudo echo "alias wsql='python3'python3 /opt/aTearn/aTearn.py'" >> ~/.bashrc
 ```
 
 ### Install dependencies
@@ -71,19 +63,19 @@ pip install -r requirements.txt
 #### Provide a single domain using `echo`:
 
 ```bash
-echo "apple.com" | python3 aTearn.py -o output_dir/
+echo "apple.com" | atearn -o output_dir/
 ```
 
 #### Provide multiple domains using `cat`:
 
 ```bash
-cat domains.txt | python3 aTearn.py -o output_dir/
+cat domains.txt | atearn -o output_dir/
 ```
 
 #### Specify a file directly:
 
 ```bash
-python3 aTearn.py -d domains.txt -o output_dir/
+atearn -d domains.txt -o output_dir/
 ```
 
 ### Customizing Output
@@ -91,7 +83,7 @@ python3 aTearn.py -d domains.txt -o output_dir/
 #### Specify an output directory with the `-o` flag:
 
 ```bash
-python3 aTearn.py -d domains.txt -o /Desktop/my_results/
+atearn -d domains.txt -o /Desktop/my_results/
 ```
 
 ## 📂 Outputs
