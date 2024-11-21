@@ -1,0 +1,15 @@
+subfinder
+assetfinder
+httpx-toolkit
+gau
+katana
+subzy
+nuclei
+gf
+qsreplace
+uro
+dalfox
+ghauri
+corscanner
+paramspider
+nmap
