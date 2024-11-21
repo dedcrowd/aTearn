@@ -3,7 +3,7 @@
 > aTearn.py is intended for educational and ethical hacking purposes only. Use it responsibly and only on systems you own or have explicit permission to test. Unauthorized use is illegal and unethical.
 
 <div align="center">
-   <a href="https://github.com/hunthack3r/aTearn"><img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=790b7611udpkaea137z4qwwjsr2xwp2rr6o53qubl7djkbo1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="225" width="450" align="center"/></a>
+   <a href="https://github.com/hunthack3r/aTearn"><img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=790b7611udpkaea137z4qwwjsr2xwp2rr6o53qubl7djkbo1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="700" width="1000" align="center"/></a>
 </div>
 
 <br>
