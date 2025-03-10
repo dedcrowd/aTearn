@@ -47,7 +47,7 @@
 ```bash
 git clone https://github.com/hunthack3r/aTearn.git
 cd aTearn
-sudo echo "alias wsql='python3'python3 /opt/aTearn/aTearn.py'" >> ~/.bashrc
+sudo echo "alias atearn='python3'python3 /opt/aTearn/aTearn.py'" >> ~/.bashrc
 ```
 
 ### Install dependencies
